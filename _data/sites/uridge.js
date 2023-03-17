@@ -14,11 +14,11 @@ module.exports = {
     freshChrome: "site",
   },
   urls: [
-    "https://uridge-com.vercel.app",
-    "https://uridge-com.vercel.app/projects",
-    "https://uridge-com.vercel.app/blog",
-    "https://uridge-com.vercel.app/about",
-    // Popular Posts
-    "https://uridge-com.vercel.app/blog/second-post",
+    "https://www.uridge.com/",
+    "https://www.uridge.com/projects/",
+    "https://www.uridge.com/snippets/",
+    // Posts
+    "https://www.uridge.com/snippets/git-fixup-rebase/",
+    "https://www.uridge.com/snippets/git-amend/",
   ],
 };
